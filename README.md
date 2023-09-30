@@ -1,8 +1,8 @@
-<h4 align="left">hi, I'm Lucila🐱, an engineer from Argentina 🇦🇷</h4>
+<b><p align="left">hi, I'm Lucila🐱, an engineer from Argentina 🇦🇷</p></b>
 
 <p>let's talk about web and mobile development, UI/UX, and game development.</p>
 
-<h4 align="left">what I currently use:</h4>
+<b><p align="left">what I currently use:</p></b>
 <p align="left">  
   
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="wordpress" width="40" height="40"/> </a> 
