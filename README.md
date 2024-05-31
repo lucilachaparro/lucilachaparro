@@ -16,8 +16,10 @@
 
 <b><p align="left">what I'm getting familiar with:</p></b>
 <p align="left">  
-![Spring Boot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=springboot)&nbsp;
+  
+![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=springboot)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+
 </p>
 
 <!--
